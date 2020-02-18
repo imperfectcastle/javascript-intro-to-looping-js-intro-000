@@ -16,7 +16,7 @@ function whileLoop(num) {
 return "done"
 }
 
-var i = 0
+var i = 1
 
 function doWhileLoop(num){
   function incrementVariable() {
